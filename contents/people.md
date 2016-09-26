@@ -4,6 +4,8 @@ template: emptyPage.jade
 ---
 | Position        | Name             | E-Mail                    |
 |-----------------|------------------|---------------------------|
-| President       | Jasmine Cannon   | Z1685088@students.niu.edu | 
-| Treasurer       | Nick Bimmerle    | Z1664776@students.niu.edu |
+| President       | David Frey       | z1695428@students.niu.edu | 
+| Vice President  |                  |                           |
+| Treasurer       | Anisha Monga     | z1755323@students.niu.edu |
+| Secretary       | Sarah Repking    | srepking@niu.edu          |
 | Faculty Advisor | Daniel Rogness   | drogness1@niu.edu         |
